@@ -44,3 +44,10 @@ minishell/
 ├── include
 ├── Makefile
 └── README.md
+
+## Author
+
+Jean Henrique Moreira  
+42 Lisboa  
+
+Learning low-level. Thinking long-term.
